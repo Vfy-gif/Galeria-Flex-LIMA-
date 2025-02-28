@@ -3,7 +3,7 @@
 ![](./preview.png)
 
 ## Projeto
-Primeira pagina feita no CodePen, criado durante a disciplina de Linguagem de Marcação do curso na escola SENAI Jandira
+Pagina feita usando Flex, criado durante a disciplina de Linguagem de Marcação do curso na escola SENAI Jandira
 
 ## Tecnologias
 * HTML
